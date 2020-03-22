@@ -1,1 +1,0 @@
-{"id":"index.html","dependencies":[{"name":"./src/app.ts","dynamic":true,"resolved":"/home/marce/gh/src/app.ts","parent":"/home/marce/gh/index.html"}],"generated":{"html":"<html>\n<body>\n\t<script src=\"/f98485da1849ae631ba5c04e5cec07dd.js\"></script>\n</body>\n</html>"},"sourceMaps":null,"error":null,"hash":"fa0a17dd10944bd89ed76c51b3053b38","cacheData":{}}
